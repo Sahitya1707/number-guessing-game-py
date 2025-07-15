@@ -2,6 +2,8 @@
 
 A simple terminal-based number guessing game built in Python. Perfect for beginners who want to sharpen their fundamentals before diving into coding platforms like LeetCode.
 
+> 📝 This README was generated as part of my learning process. I wanted to try building something small before starting LeetCode to get more comfortable with Python syntax and logic.
+
 ---
 
 ## Features
@@ -10,7 +12,6 @@ A simple terminal-based number guessing game built in Python. Perfect for beginn
 - Difficulty levels:
   - Easy (10 tries)
   - Hard (5 tries)
-  - Custom (your own number of tries)
 - Replayable game session
 - Tracks your best score (lowest number of guesses)
 - Validates user input to prevent crashes
